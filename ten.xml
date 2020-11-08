@@ -2,7 +2,7 @@
 <manifest>
 	
  <!--DeviceRepos-->
-  <project path="device/lenovo/a6000" name="Xvae27/device_lenovo_a6000" remote="github" revision="Ten" />
+  <project path="device/lenovo/a6000" name="acroreiser/android_device_lenovo_a6000" remote="github" revision="rr-ten" />
   <project path="vendor/lenovo/a6000" name="Xvae27/vendor_lenovo_a6000" remote="github" revision="Ten" />
   <project path="kernel/lenovo/a6000" name="Xvae27/kernel_lenovo_a6000" remote="github" revision="Ten" />
   
