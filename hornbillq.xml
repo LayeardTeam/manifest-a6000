@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+ <!--DeviceRepos-->
+  <project path="device/lenovo/a6000" name="LayeardTeam/device_lenovo_a6000" remote="github" revision="hornbill-q" clone-depth="1" />
+  <project path="vendor/lenovo" name="LayeardTeam/vendor_lenovo_a6000" remote="github" revision="hornbill-q" clone-depth="1" />
+  <project path="kernel/lenovo/a6000" name="LayeardTeam/kernel_lenovo_a6000" remote="github" revision="hornbill-q" clone-depth="1" />
+
+
+</manifest>
